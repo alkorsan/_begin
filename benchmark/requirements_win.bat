@@ -18,8 +18,8 @@ if not exist %PROGRAMDATA%\chocolatey\bin\choco.exe (
 
 choco install  cygwin cyg-get addo  alacritty.install  notepad3.install  diskspd fio dd sync wget git open-shell
 # vscodium
-dds
-added in local
+
+
 rem wget https://wj32.org/wp/download/1455/
 
 pause
